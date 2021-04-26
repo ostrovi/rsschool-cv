@@ -3,21 +3,25 @@ layout: cv
 title: Ivan Ostrov's CV
 ---
 # Ivan Ostrov
-Senior software engineer in backend
+Senior software engineer in backend.
 
-
-
-## Contact
+### Contact
 <div id="webaddress">
 <a href="ivan.ostrov123@gmail.com">ivan.ostrov123@gmail.com</a>
 </div>
 
-
-
 ### Specialized in
 
-Microservices, backend, API design
+Microservices, backend, API design.
 
 ### Favorite movies
 
-Indie game the movie, F1: Drive to Survive
+Indie game the movie, F1: Drive to Survive.
+
+### English
+
+B1+ I have a huge experience of communication in English.
+
+### Education
+
+Bachelor in Math
